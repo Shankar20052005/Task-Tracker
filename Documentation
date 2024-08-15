@@ -1,0 +1,66 @@
+Task Tracker Application Documentation
+
+Project Overview
+The Task Tracker Application is a simple web-based tool that allows users to manage tasks efficiently. Built using vanilla JavaScript, HTML, and CSS, the application enables users to perform basic CRUD (Create, Read, Update, Delete) operations on tasks.
+*********************************************************************************************************************
+Setup Instructions
+Clone or Download the Project:
+
+Create a new directory for your project.
+Clone the repository or download the source code and extract it into the directory.
+*********************************************************************************************************************
+
+Project Structure:
+
+The project consists of three main files:
+index.html: Contains the structure of the application.
+styles.css: Contains the styling of the application.
+script.js: Contains the logic for handling tasks.
+*********************************************************************************************************************
+
+Run the Application:
+
+Open the index.html file in your web browser.
+The application will be ready for use.
+
+*********************************************************************************************************************
+
+Description of Functionalities
+Add Task:
+
+Input Field: A text input field is provided to enter the task description.
+Add Button: A button labeled "Add Task" is available. When clicked, the task is added to the list below the input field.
+*********************************************************************************************************************
+
+Display Tasks:
+
+All tasks are displayed in a list format below the input field.
+Each task item includes its description along with options to edit or delete the task.
+*********************************************************************************************************************
+
+Update Task:
+
+Edit Button: Each task in the list has an associated "Edit" button. When clicked, the task's description becomes editable.
+Save Button: After editing, a "Save" button appears, allowing the user to save changes to the task.
+*********************************************************************************************************************
+
+Delete Task:
+
+Delete Button: Each task has a "Delete" button. When clicked, the task is removed from the list.
+Testing the Application
+*********************************************************************************************************************
+
+Add a New Task:
+
+Enter a task description in the input field and click the "Add Task" button. The task should appear in the list.
+*********************************************************************************************************************
+
+Edit an Existing Task:
+
+Click the "Edit" button next to a task, make changes, and click "Save." The updated task should appear in the list.
+*********************************************************************************************************************
+
+Delete a Task:
+
+Click the "Delete" button next to a task. The task should be removed from the list.
+*********************************************************************************************************************
